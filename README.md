@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**mzsl03/mzsl03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Zsolti, a Computer Science student at the University of Debrecen 🏫
 
-Here are some ideas to get you started:
+- 💡 I’m passionate about **Machine Learning**, **Data Science**, and **Web Development**.  
+- 🧠 I enjoy turning data into insight and building clean, efficient applications.  
+- 🧰 Currently working with **Python**, **Django**, **Java**, **Spring** and **Angular**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧩 Academic & Personal Projects  
+- 🏠 **Real Estate Price Prediction** — Machine learning model using Python, Scikit-learn and Tensorflow  
+- 🌐 **Django Web Apps** — Individual and team university projects with PostgreSQL and Git-based collaboration  
+- 🔧 **Car Workshop Management App** — Blazor WebAssembly + ASP.NET Core CRUD system
+  
+---
+
+### 📊 GitHub Stats  
+[![mzsl03 GitHub stats](https://github-readme-stats.vercel.app/api?username=mzsl03&commits_year=2025&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mzsl03&commits_year=2025&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
