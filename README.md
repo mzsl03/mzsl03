@@ -9,7 +9,8 @@
 ---
 
 ### 🧩 Academic & Personal Projects  
-- 🏠 **Real Estate Price Prediction** — Machine learning model using Python, Scikit-learn and Tensorflow  
+- 🏠 **Real Estate Price Prediction** — Machine learning model using Python, Scikit-learn and Tensorflow 
+    - Data preprocessing and feature engineering performed with Pandas and NumPy
 - 🌐 **Django Web Apps** — Individual and team university projects with PostgreSQL and Git-based collaboration  
 - 🔧 **Car Workshop Management App** — Blazor WebAssembly + ASP.NET Core CRUD system
   
