@@ -2,17 +2,16 @@
 
 ### I'm Zsolti, a Computer Science student at the University of Debrecen 🏫
 
-- 💡 I’m passionate about **Machine Learning**, **Data Science**, and **Web Development**.  
-- 🧠 I enjoy turning data into insight and building clean, efficient applications.  
-- 🧰 Currently working with **Python**, **Django**, **Java**, **Spring** and **Angular**.  
+- I’m passionate about **Machine Learning**, **Data Science**, and **Web Development**.  
+- I enjoy turning data into insight and building clean, efficient applications.  
+- Currently working with **Python**, **Django**, **Java**, **Spring** and **Angular**.  
 
 ---
 
-### 🧩 Academic & Personal Projects  
-- 🏠 **Real Estate Price Prediction** — Machine learning model using Python, Scikit-learn and Tensorflow 
+### Academic & Personal Projects  
+- **Real Estate Price Prediction** — Machine learning model using Python, Scikit-learn and Tensorflow 
     - Data preprocessing and feature engineering performed with Pandas and NumPy
-- 🌐 **Django Web Apps** — Individual and team university projects with PostgreSQL and Git-based collaboration  
-- 🔧 **Car Workshop Management App** — Blazor WebAssembly + ASP.NET Core CRUD system
+- **Django Web Apps** — Individual and team university projects with PostgreSQL and Git-based collaboration  
   
 ---
 
